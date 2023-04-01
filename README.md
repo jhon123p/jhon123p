@@ -1,8 +1,8 @@
-## Ola..!! muito prazer mim chamo JHONATAS GALVAO seja muito bem vindo..!!
+## Ola..!! ..!!
 
 
-- 🔭 Hoje trabalho com front e back
-- ⚡ estudando desenvolvimento web com muita dedicaçao
+- 🔭
+- ⚡
 - ⚡ 
 
 <div align="center">
